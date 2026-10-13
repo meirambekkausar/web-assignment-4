@@ -1,15 +1,13 @@
 # Assignment 4: Forms and Validation
 
-- **Student:** Kaussar Meirambekkyzy  
-- **Group:** IT-2513
+- Name: Kaussar Meirambekkyzy  
+- Group: IT-2513
 
 
 ## Project Overview
 In this assignment, I practiced working with HTML forms, adding validation, and styling them using Bootstrap 5. The project has 3 main parts: basic HTML5 form validation, Bootstrap validation styles, and a full responsive registration form.
 
 ---
-
-## Tasks & Screenshots
 
 ### Part 1: Basic HTML Form (Task 0 & Task 1)
 - Created a simple contact form with inputs for Name, Email, and Message.
